@@ -19,7 +19,7 @@ We believe in doing more with less.
 <!-- ## 🌈 Contribution guidelines - how can the community get involved? -->
 ## 👩‍💻 Useful resources 
 - 📖 Documentation: Coming soon!
-- 🎥 Product Demos: Check our repositories
+- 🎥 Product Demos: Check our Live Links
 - 📢 Announcements: Follow us on social media!
 
 ## 🍿 Fun facts
